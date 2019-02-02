@@ -1,3 +1,5 @@
-This is a fork of [TheBigMunch](https://github.com/thebigmunch)'s [gmusicapi-wrapper](https://github.com/thebigmunch/gmusicapi-wrapper), which stopped working at the end of 2018 because of incompatibilities with gmusicapi. TheBigMunch is now working on his own api [google-music](https://github.com/thebigmunch/google-music), be sure to check that out as well. His original repo is archived and does not accept PR requests anymore, hence this fork.
+This is a fork of [TheBigMunch](https://github.com/thebigmunch)'s archived [gmusicapi-wrapper](https://github.com/thebigmunch/gmusicapi-wrapper), which stopped working at the end of 2018 because of incompatibilities with changes in [gmusicapi](https://github.com/simon-weber/gmusicapi). 
 
-I'm maintaining these set of scripts for people (like me) who have uploaded their music collections using the original [gmusicapi](https://github.com/simon-weber/gmusicapi) from Simon Weber, and would like to continue to do so until they want to switch to another API.
+TheBigMunch is now working on his own api [google-music](https://github.com/thebigmunch/google-music), be sure to check that out as well. His original repo is archived and does not accept PR requests anymore, hence this fork.
+
+I'm maintaining these set of scripts for people who have uploaded their music collections using the original [gmusicapi](https://github.com/simon-weber/gmusicapi) from Simon Weber, and would like to continue to do so until they want to switch to another API.
