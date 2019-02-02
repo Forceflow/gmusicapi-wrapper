@@ -1,0 +1,7 @@
+coverage
+invoke
+pytest
+pytest-cov
+sphinx
+tox
+wheel
