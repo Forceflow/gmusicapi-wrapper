@@ -25,10 +25,9 @@ setup(
 	name='gmusicapi-wrapper',
 	version=version,
 	description='A wrapper interface around gmusicapi.',
-	url='https://github.com/thebigmunch/gmusicapi-wrapper',
+	url='https://github.com/Forceflow/gmusicapi-wrapper',
 	license='MIT',
-	author='thebigmunch',
-	author_email='mail@thebigmunch.me',
+	author='Forceflow / thebigmunch',
 
 	keywords=[],
 	classifiers=[
