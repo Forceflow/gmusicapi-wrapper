@@ -43,7 +43,7 @@ setup(
 		'wrapt'
 	],
 
-	packages=find_packages(),
+	packages=['gmusicapi-wrapper']
 
 	zip_safe=False
 )
