@@ -9,3 +9,7 @@ I'm maintaining this wrapper for people who have uploaded their music collection
 # Installation
 
 For now, the best way to install is to just do `pip3 install -U git+https://github.com/Forceflow/gmusicapi-wrapper.git` to get the latest version.
+
+# Usage
+
+A good set of scripts to use with this wrapper (to sync your music, for example) is [gmusicapi-scripts](https://github.com/Forceflow/gmusicapi-scripts).
