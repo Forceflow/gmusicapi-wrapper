@@ -1,9 +1,9 @@
 # coding=utf-8
 
 __title__ = 'gmusicapi_wrapper'
-__version__ = "0.6"
+__version__ = "0.7"
 __license__ = 'MIT'
-__copyright__ = 'Copyright 2016 thebigmunch <mail@thebigmunch.me>'
+__copyright__ = 'Forceflow / (original) thebigmunch <mail@thebigmunch.me>'
 
 import logging
 
